@@ -39,3 +39,4 @@ with its library.
 
 
 - The user can enable/disable the added all-pass elements via a drop-menu or checkboxes group.
+![](image.png)
